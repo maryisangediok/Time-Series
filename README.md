@@ -1,3 +1,3 @@
-# Time-Series
-Projects
+# Projects
 
+CNN-LSTM Frame for Bitcoin Price Prediction
